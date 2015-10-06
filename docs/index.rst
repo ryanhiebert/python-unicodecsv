@@ -6,6 +6,8 @@
 Welcome to Unicode CSV's documentation!
 =======================================
 
+``unicodecsv`` is a drop-in replacement for Python 2.7's ``csv`` module which supports unicode strings without a hassle.
+
 Contents:
 
 .. toctree::
